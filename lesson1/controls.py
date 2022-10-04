@@ -14,5 +14,7 @@ while x>1:
     else:
         x=3*x+1
         shagi=shagi+1
+
+print('изменени')
 print('количесвто шагов =',shagi)
 
